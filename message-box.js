@@ -145,23 +145,6 @@
           opts.onCancel = self.onCancel;
         }
 
-        if(typeof opts.onShow === "undefined") {
-          opts.onShow = self.onShow;
-        }
-
-        if(typeof opts.onShown === "undefined") {
-          opts.onShown = self.onShown;
-        }
-
-        if(typeof opts.onHide === "undefined") {
-          opts.onShown = self.onShown;
-        }
-
-        if(typeof opts.onHidden === "undefined") {
-          opts.onHidden = self.onHidden;
-        }
-
-
         if(typeof opts.headerContent === "undefined") {
           opts.headerContent = self.headerContent;
         }
