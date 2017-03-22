@@ -2,6 +2,7 @@
  * @package MessageBox
  * @author Daniel Samson
  * @url https://github.com/daniel-samson/messagebox
+ * @license AGPL 3.0
  */
 (function( $ ) {
   /**
