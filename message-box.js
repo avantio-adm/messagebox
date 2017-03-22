@@ -1,3 +1,8 @@
+/**
+ * @package MessageBox
+ * @author Daniel Samson
+ * @url https://github.com/daniel-samson/messagebox
+ */
 (function( $ ) {
   /**
    *
