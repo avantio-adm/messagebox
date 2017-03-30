@@ -26,3 +26,5 @@ mb.on(‘cancel’, function() {
     mb.remove();
 })
 </pre>
+
+Please see the wiki for more information
