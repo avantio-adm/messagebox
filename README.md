@@ -27,4 +27,4 @@ mb.on(‘cancel’, function() {
 })
 </pre>
 
-Please see the wiki for more information
+Please see the [wiki](https://github.com/daniel-samson/messagebox/wiki) for more information
